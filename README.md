@@ -26,7 +26,9 @@ Project is: _finished_
 
 ## Contact
 Created by [@dagolovach](https://dmitrygolovach.com) 
+
 Twitter: [@dagolovach](https://twitter.com/dagolovach)
+
 LinkedIn: [@dmitrygolovach](https://www.linkedin.com/in/dmitrygolovach/)
 
 - feel free to contact me!
