@@ -1,5 +1,5 @@
 # Cisco ISE Hotspot access-code
-> There is an way to "automatically" change the guest HotSpot access-code at a given interval (lets say daily) - Daily auto generate access-code for the ISE Hostspot portal
+> There is a way to "automatically" change the guest HotSpot access-code at a given interval (lets say daily) - Daily auto generate the access-code for the ISE Hostspot portal
 
 ## Table of contents
 * [General info](#general-info)
