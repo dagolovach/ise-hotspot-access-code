@@ -16,7 +16,7 @@ Steps:
 2. Create Python Script
 3. Configure Task Scheduler
 
-Details [here](https://dmitrygolovach.com/cisco-ise-update-hotspot-access-code-daily/)
+More info about ISE API and scheduler [here](https://dmitrygolovach.com/cisco-ise-update-hotspot-access-code-daily/)
 
 ## Technologies
 * Cisco ISE - version 2.4 (but should work with other too)
