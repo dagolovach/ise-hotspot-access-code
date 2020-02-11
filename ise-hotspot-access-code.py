@@ -80,8 +80,7 @@ def main():
             }
 
     headers = {"Content-Type": "application/json"}
-    response = requests.put(url, data=json.dumps(data), headers=headers, verify=False,
-                            auth=HTTPBasicAuth('ISE_USERNAME', 'ISE_PASSWORD'))
+    response = requests.put(url, data=json.dumps(data), headers=headers, verify=False, auth=HTTPBasicAuth('ISE_USERNAME', 'ISE_PASSWORD'))
     send_email(access_code)
     return
 
